@@ -2,11 +2,12 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Janith%20Nilukshan&fontSize=50&fontAlignY=35&desc=Software%20Engineering%20Undergraduate%20|%20Full%20Stack%20Developer&descAlignY=55)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=800&lines=Welcome+to+Janith's+Digital+Space+%F0%9F%91%8B;Backend+Developer+%F0%9F%92%BB;Frontend+Developer+%F0%9F%8E%A8;Software+Engineering+Student+%F0%9F%8E%AC;Problem+Solver+%F0%9F%A7%A0;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
+
 [<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />](https://linkedin.com/in/Janith-Nilukshan)
 [![Profile Views](https://visitcount.itsvg.in/api?id=JNilukshan&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
-
 
 ## 🚀 About Me
 - 📚 Undergraduate Student at ITUM specializing in Software Development
